@@ -1,0 +1,1 @@
+An object and human following robot can detect an object or human within a certain range. The robot will follow the object or human when the object or human is moving away from it. The robot will also go away from the object or human when the object or human is approaching the robot.
